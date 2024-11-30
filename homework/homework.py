@@ -57,7 +57,7 @@
 # contener las siguientes capas:
 # - Transforma las variables categoricas usando el método
 #   one-hot-encoding.
-# - Ajusta un modelo de bosques aleatorios (rando forest).
+# - Ajusta un modelo de bosques aleatorios (random forest).
 #
 #
 # Paso 4.
